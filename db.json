@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "123",
+      "active": true,
+      "admin": false,
+      "id": 1
+    },
+    {
+      "name": "kate",
+      "email": "kate@gmail.com",
+      "password": "123",
+      "active": true,
+      "admin": false,
+      "id": 2
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "active": true,
+      "admin": true,
+      "id": 3
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "active": true,
+      "admin": false,
+      "id": 4
+    }
+  ],
+  "blogs": [
+    {
+      "heroImage": "https://media.istockphoto.com/id/1340232198/photo/programming-for-a-system-using-a-programming-language.jpg?b=1&s=170667a&w=0&k=20&c=yGBHKFLlhcdfT1bmDrkx6YMRI0fscrmvSPovED0VgWQ=",
+      "title": "Learn Modern React Redux",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas illo fugiat animi nostrum aperiam voluptatum obcaecati assumenda vero fugit sapiente harum, deleniti dolore ad. Doloribus dolores animi magni aperiam repellat!</",
+      "publish": false,
+      "autherId": 1,
+      "id": 1
+    },
+    {
+      "heroImage": "https://media.istockphoto.com/id/1340232198/photo/programming-for-a-system-using-a-programming-language.jpg?b=1&s=170667a&w=0&k=20&c=yGBHKFLlhcdfT1bmDrkx6YMRI0fscrmvSPovED0VgWQ=",
+      "title": "Learn HTML",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas illo fugiat animi nostrum aperiam voluptatum obcaecati assumenda vero fugit sapiente harum, deleniti dolore ad. Doloribus dolores animi magni aperiam repellat!</",
+      "publish": true,
+      "autherId": 1,
+      "id": 2
+    },
+    {
+      "heroImage": "https://media.istockphoto.com/id/1340232198/photo/programming-for-a-system-using-a-programming-language.jpg?b=1&s=170667a&w=0&k=20&c=yGBHKFLlhcdfT1bmDrkx6YMRI0fscrmvSPovED0VgWQ=",
+      "title": "Learn web devlopment",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas illo fugiat animi nostrum aperiam voluptatum obcaecati assumenda vero fugit sapiente harum, deleniti dolore ad. Doloribus dolores animi magni aperiam repellat!</",
+      "publish": false,
+      "autherId": 2,
+      "id": 3
+    },
+    {
+      "heroImage": "https://media.istockphoto.com/id/1340232198/photo/programming-for-a-system-using-a-programming-language.jpg?b=1&s=170667a&w=0&k=20&c=yGBHKFLlhcdfT1bmDrkx6YMRI0fscrmvSPovED0VgWQ=",
+      "title": "Learn Modern React Redux and many more",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas illo fugiat animi nostrum aperiam voluptatum obcaecati assumenda vero fugit sapiente harum, deleniti dolore ad. Doloribus dolores animi magni aperiam repellat!</",
+      "publish": false,
+      "autherId": 1,
+      "id": 4
+    },
+    {
+      "heroImage": "https://media.istockphoto.com/id/1340232198/photo/programming-for-a-system-using-a-programming-language.jpg?b=1&s=170667a&w=0&k=20&c=yGBHKFLlhcdfT1bmDrkx6YMRI0fscrmvSPovED0VgWQ=",
+      "title": "Learn Modern React Redux",
+      "content": "<h1>learn modern redux </h1><p>why redux is used for data science</p><h2>syllabus</h2><ul><li>python </li><li>react</li><li>js</li><li>html</li></ul>",
+      "publish": true,
+      "autherId": 1,
+      "id": 5
+    },
+    {
+      "heroImage": "https://media.istockphoto.com/id/1340232198/photo/programming-for-a-system-using-a-programming-language.jpg?b=1&s=170667a&w=0&k=20&c=yGBHKFLlhcdfT1bmDrkx6YMRI0fscrmvSPovED0VgWQ=",
+      "title": "Learn Modern React Redux",
+      "content": "<h1>learn modern redux </h1><p>why redux is used for data science</p><h2>syllabus</h2><ul><li>python </li><li>react</li><li>js</li><li>html</li></ul>",
+      "publish": true,
+      "autherId": 1,
+      "id": 6
+    },
+    {
+      "heroImage": "https://media.istockphoto.com/id/1340232198/photo/programming-for-a-system-using-a-programming-language.jpg?b=1&s=170667a&w=0&k=20&c=yGBHKFLlhcdfT1bmDrkx6YMRI0fscrmvSPovED0VgWQ=",
+      "title": "Learn Modern React Redux**",
+      "publish": false,
+      "autherId": 1,
+      "id": 7
+    }
+  ]
+}
